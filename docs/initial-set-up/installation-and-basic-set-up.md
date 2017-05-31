@@ -1,12 +1,7 @@
-Installation and basic set-up
+Instalación y configuración básica
 =============================
 
-Before reading further, please be aware that much of the information
-contained here is intended for technicians and may be difficult to
-understand if you have little or no experience in setting up web
-applications. If you don't understand this topic, you may wish to either
-seek help, or point your organisation's technical staff to this
-material.
+Antes de leer más allá, tenga en cuenta que gran parte de la información aquí contenida está destinado a los técnicos y puede ser difícil entender si se tiene poca o ninguna experiencia en la configuración de aplicaciones web. Si usted no entiende este tema, quizás desee buscar ayuda o ponga al personal técnico de su organización este material.
 
 Prerequisites
 -------------
