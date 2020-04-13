@@ -3,7 +3,8 @@ site_url: https://docs.civicrm.org/user/es/stable/
 repo_url: https://github.com/alejandro-ixiam/civicrm-user-guide-spanish
 site_description: 'Guía de usuario de CiviCRM en español.'
 site_author: 'La comunidad de CiviCRM'
-theme: material
+theme: 
+  name: material
 markdown_extensions:
   - attr_list
   - admonition
