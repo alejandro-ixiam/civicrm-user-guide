@@ -3,20 +3,23 @@ site_url: https://docs.civicrm.org/user/es/stable/
 repo_url: https://github.com/alejandro-ixiam/civicrm-user-guide-spanish
 site_description: 'Guía de usuario de CiviCRM en español.'
 site_author: 'La comunidad de CiviCRM'
-theme: material
+theme: 
+  name: material
 markdown_extensions:
   - attr_list
   - admonition
   - def_list
-  - codehilite(guess_lang=false)
-  - toc(permalink=true)
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
   - pymdownx.superfences
   - pymdownx.inlinehilite
   - pymdownx.tilde
   - pymdownx.betterem
   - pymdownx.mark
 
-pages:
+nav:
 - Inicio: 'index.md'
 - Introducción:
     - '¿Qué es CiviCRM?': 'introduction/what-is-civicrm.md'
